@@ -1,0 +1,30 @@
+/* Basic styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.property-listing, .cart, .checkout {
+  padding: 20px;
+}
+
+.property-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .property-card {
+    width: 45%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .property-card {
+    width: 30%;
+  }
+}

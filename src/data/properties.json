@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment",
+    "description": "A nice and cozy apartment in the city center.",
+    "price": 100,
+    "location": "City Center",
+    "bedrooms": 2,
+    "image": "/assets/images/property1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Spacious House",
+    "description": "A spacious house with a beautiful garden.",
+    "price": 200,
+    "location": "Suburbs",
+    "bedrooms": 4,
+    "image": "/assets/images/property2.jpg"
+  }
+]
